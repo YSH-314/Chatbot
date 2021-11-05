@@ -7,4 +7,4 @@ Follow the following steps to build a chatbot on Telegram:
 3. Create a python 3.6 environment and install scikit-learn 0.19.1, jieba, BeautifulSoup4, html5lib, python-telegram-bot, and telegram.ext
 4. Run the telegram_conversation.py
 
-To be 
+To be continue...

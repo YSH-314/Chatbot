@@ -1,4 +1,4 @@
-# chatbot in Mandarin 
+# Chatbot in Mandarin 
 This project was built on Telegram API and used Python as programming language
 ## Including Topics: Sentimental classification/ NLP/ Question and Answer/ ML
 ## Follow the following steps to build a chatbot on Telegram:
@@ -21,4 +21,3 @@ This project was built on Telegram API and used Python as programming language
 3. TAKE_Key.txt: Dialog number
 4. TAKE_Value: Contents of dialog
 
-To be continue...

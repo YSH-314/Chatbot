@@ -4,7 +4,7 @@ This project was built on Telegram API and used Python as programming language
 ## Follow the following steps to build a chatbot on Telegram:
 1. Create a Telegram account，ask for "BotFather" creating a chat bot (commend: /newbot)
 2. You will get a token to access the HTTP API. Copy the token and paste in the line 25 of the file: telegram_conversation.py
-3. Create a python 3.6 environment and install scikit-learn 0.19.1, jieba, BeautifulSoup4, html5lib, python-telegram-bot, tqdm, pandas, numpy, scipy, and telegram.ext
+3. Create a python 3.6 environment and install scikit-learn 0.19.1, jieba, BeautifulSoup4, html5lib, python-telegram-bot, tqdm, pandas, numpy, and scipy. Download the word vector from https://mega.nz/#!5LwDjZia!f77y-eWm90H3akg8mD9CqhOZ89NihirRKN4IT1SJ01Q.
 4. Run the telegram_conversation.py
 
 ## Build sentimental model

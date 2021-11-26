@@ -8,7 +8,7 @@ Sentimental classification/ NLP/ Question and Answer/ ML
 3. Create a python 3.6 environment and install scikit-learn 0.19.1, jieba, BeautifulSoup4, html5lib, python-telegram-bot, tqdm, pandas, numpy, and scipy. Download the word vector from https://mega.nz/#!5LwDjZia!f77y-eWm90H3akg8mD9CqhOZ89NihirRKN4IT1SJ01Q.
 4. Run the telegram_conversation.py
 
-## Build sentimental model
+## Build the model of sentimental classifier 
 1. Call function from all_deffunction_5.py
 2. Use Positive01.txt and Negative01.txt as training data
 3. Read sentence and remove stop words (as in stop_words.txt)
